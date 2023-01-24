@@ -1,0 +1,9 @@
+Language modelling data set : 
+https://sourceforge.net/projects/kalimat/files/kalimat/document-collection/
+
+Aravec source link : 
+https://github.com/bakrianoo/aravec
+
+Araelectra arabert model 
+https://github.com/aub-mind/arabert
+https://huggingface.co/aubmindlab/araelectra-base-generator
